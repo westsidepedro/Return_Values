@@ -3,13 +3,11 @@
 // Author      : 
 // Version     :
 // Copyright   : 
-// Description : Hello World in C++, Ansi-style
+// Description : void nameHere = returns nothing to "int main(){}"
+//				int nameHere = int goes into "int main(){}"
+//				  ***can retun anything BUT arrays***
 //============================================================================
 
-// Return Values --->		void nameHere = returns nothing to "int main(){}"
-/*				int nameHere = int goes into "int main(){}"
- /				***can retun anything BUT arrays***
- */
 
 #include <iostream>
 using namespace std;
